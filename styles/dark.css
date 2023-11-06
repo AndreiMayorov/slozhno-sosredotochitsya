@@ -1,4 +1,4 @@
-:root .theme_dark {
+.page.theme_dark {
   --bg-color: #000028;
   --bg-title-color: #ff0070;
   --main-title-text-color: #db00ff;
@@ -9,11 +9,8 @@
   --main-font: 'IBM Plex mono';
   --decor-color: #ff0070;
   --buttom-color: #ff0070;
-  --buttom-hover-color: #ff007040;
+  --buttom-hover-color: #ff007066;
   --link-accent-color: #ff0070;
-}
-
-.theme_dark.page {
   background-image: url(../images/cover-image-dark.png);
 }
 
